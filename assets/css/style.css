@@ -186,7 +186,7 @@ h3,
 
 .work h3 {
   position: absolute;
-  bottom: 20px;
+  bottom: 0;
   width: 100%;
   padding: 15px;
   margin-bottom: 0;
